@@ -1,0 +1,51 @@
+@font-face{
+    font-family: sans; 
+    src: url('SourceSerifPro-Regular.ttf'); 
+}
+html{
+    background-color: #e2e2e2;
+}
+head{
+    font-family: 'sans';
+}
+body{
+    font-family: 'sans';
+}
+#idno{
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-family: 'sans';
+}
+#name{
+    text-align: left;
+    margin-top:5px;
+    margin-bottom: 12px;
+}
+label{
+    display: block;
+}
+
+.button {
+    text-align: center;
+    display: block;
+    margin-left: 35px;
+    margin-top: 30px;
+    background-color: #000077;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'sans';
+  }
+.user{
+    margin-left: 545px;
+    padding-top: 100px;
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+    color:#c03e48; 
+}
